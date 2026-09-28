@@ -1,7 +1,7 @@
 {
   "name": "itsmeeaizat-bailey",
   "type": "module",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "WhatsApp Web multi-device library for bots & automation \u2014 Aizat's build of Baileys v7: interactive messages, albums, newsletters, pairing codes",
   "license": "MIT",
   "main": "lib/index.js",

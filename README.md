@@ -21,6 +21,10 @@ A performance-tuned build of the Baileys protocol stack — interactive messages
 [![maintained](https://img.shields.io/badge/maintained-yes-brightgreen?style=flat-square)](https://www.npmjs.com/~itsmee_aizat.id)
 [![GitHub](https://img.shields.io/badge/GitHub-%40itsmeeaizat1-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/itsmeeaizat1)
 [![GitHub followers](https://img.shields.io/github/followers/itsmeeaizat1?style=flat-square&color=181717&label=followers)](https://github.com/itsmeeaizat1)
+[![GitHub stars](https://img.shields.io/github/stars/itsmeeaizat1/itsmeeaizat-bailey?style=flat-square&color=181717&logo=github&logoColor=white)](https://github.com/itsmeeaizat1/itsmeeaizat-bailey/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/itsmeeaizat1/itsmeeaizat-bailey?style=flat-square&color=181717&logo=github&logoColor=white)](https://github.com/itsmeeaizat1/itsmeeaizat-bailey/forks)
+[![GitHub issues](https://img.shields.io/github/issues/itsmeeaizat1/itsmeeaizat-bailey?style=flat-square&color=181717&logo=github&logoColor=white)](https://github.com/itsmeeaizat1/itsmeeaizat-bailey/issues)
+[![GitHub last commit](https://img.shields.io/github/last-commit/itsmeeaizat1/itsmeeaizat-bailey?style=flat-square&color=181717&logo=github&logoColor=white)](https://github.com/itsmeeaizat1/itsmeeaizat-bailey/commits)
 
 </div>
 
@@ -89,6 +93,10 @@ connectToWhatsApp();
 - Typed API surface with TypeScript definitions
 
 ## Changelog
+
+### 1.0.5
+
+- README: added GitHub repo badges (stars, forks, issues, last commit)
 
 ### 1.0.4
 
