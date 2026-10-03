@@ -77,6 +77,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/itsmeeaizat1/itsmeeaizat-bailey.git"
+    "url": "git+https://github.com/itsmeeaizat1/baileys.git"
+  },
+  "homepage": "https://github.com/itsmeeaizat1/baileys#readme",
+  "bugs": {
+    "url": "https://github.com/itsmeeaizat1/baileys/issues"
   }
 }
