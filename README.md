@@ -1,30 +1,26 @@
 <div align="center">
 
-# itsmeeaizat-bailey
+# @itsmee_aizat.id/baileys
 
 **WhatsApp Web multi-device library for Node.js**
 
 A performance-tuned build of the Baileys protocol stack — interactive messages, albums, newsletters and pairing codes out of the box.
 
-[![npm version](https://img.shields.io/npm/v/itsmeeaizat-bailey?style=flat-square&color=CB3837&logo=npm&logoColor=white)](https://www.npmjs.com/package/itsmeeaizat-bailey)
-[![npm downloads total](https://img.shields.io/npm/dt/itsmeeaizat-bailey?style=flat-square&color=CB3837&logo=npm&logoColor=white)](https://www.npmjs.com/package/itsmeeaizat-bailey)
-[![npm downloads/month](https://img.shields.io/npm/dm/itsmeeaizat-bailey?style=flat-square&color=CB3837&logo=npm&logoColor=white)](https://www.npmjs.com/package/itsmeeaizat-bailey)
-[![unpacked size](https://img.shields.io/npm/unpacked-size/itsmeeaizat-bailey?style=flat-square&color=2F855A)](https://www.npmjs.com/package/itsmeeaizat-bailey?activeTab=code)
-[![license](https://img.shields.io/npm/l/itsmeeaizat-bailey?style=flat-square&color=blue)](./LICENSE)
-[![node engine](https://img.shields.io/node/v/itsmeeaizat-bailey?style=flat-square&color=339933)](https://nodejs.org)
+[![npm version](https://img.shields.io/npm/v/@itsmee_aizat.id/baileys?style=flat-square&color=CB3837&logo=npm&logoColor=white)](https://www.npmjs.com/package/@itsmee_aizat.id/baileys)
+[![npm downloads total](https://img.shields.io/npm/dt/@itsmee_aizat.id/baileys?style=flat-square&color=CB3837&logo=npm&logoColor=white)](https://www.npmjs.com/package/@itsmee_aizat.id/baileys)
+[![npm downloads/month](https://img.shields.io/npm/dm/@itsmee_aizat.id/baileys?style=flat-square&color=CB3837&logo=npm&logoColor=white)](https://www.npmjs.com/package/@itsmee_aizat.id/baileys)
+[![unpacked size](https://img.shields.io/npm/unpacked-size/@itsmee_aizat.id/baileys?style=flat-square&color=2F855A)](https://www.npmjs.com/package/@itsmee_aizat.id/baileys?activeTab=code)
+[![license](https://img.shields.io/npm/l/@itsmee_aizat.id/baileys?style=flat-square&color=blue)](./LICENSE)
+[![node engine](https://img.shields.io/node/v/@itsmee_aizat.id/baileys?style=flat-square&color=339933)](https://nodejs.org)
 [![types](https://img.shields.io/badge/types-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](./lib/index.d.ts)
 
-[![WhatsApp Web version](https://img.shields.io/badge/WhatsApp_Web-2.3000.1047970367-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://www.npmjs.com/package/itsmeeaizat-bailey)
-[![multi-device](https://img.shields.io/badge/multi--device-supported-25D366?style=flat-square)](https://www.npmjs.com/package/itsmeeaizat-bailey)
-[![pairing code](https://img.shields.io/badge/pairing--code-supported-25D366?style=flat-square)](https://www.npmjs.com/package/itsmeeaizat-bailey)
+[![WhatsApp Web version](https://img.shields.io/badge/WhatsApp_Web-2.3000.1047970367-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://www.npmjs.com/package/@itsmee_aizat.id/baileys)
+[![multi-device](https://img.shields.io/badge/multi--device-supported-25D366?style=flat-square)](https://www.npmjs.com/package/@itsmee_aizat.id/baileys)
+[![pairing code](https://img.shields.io/badge/pairing--code-supported-25D366?style=flat-square)](https://www.npmjs.com/package/@itsmee_aizat.id/baileys)
 [![ESM](https://img.shields.io/badge/ESM-ready-3178C6?style=flat-square)](https://nodejs.org/api/esm.html)
 [![maintained](https://img.shields.io/badge/maintained-yes-brightgreen?style=flat-square)](https://www.npmjs.com/~itsmee_aizat.id)
 [![GitHub](https://img.shields.io/badge/GitHub-%40itsmeeaizat1-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/itsmeeaizat1)
 [![GitHub followers](https://img.shields.io/github/followers/itsmeeaizat1?style=flat-square&color=181717&label=followers)](https://github.com/itsmeeaizat1)
-[![GitHub stars](https://img.shields.io/github/stars/itsmeeaizat1/itsmee-aizat-id-bailey?style=flat-square&color=181717&logo=github&logoColor=white)](https://github.com/itsmeeaizat1/itsmee-aizat-id-bailey/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/itsmeeaizat1/itsmee-aizat-id-bailey?style=flat-square&color=181717&logo=github&logoColor=white)](https://github.com/itsmeeaizat1/itsmee-aizat-id-bailey/forks)
-[![GitHub issues](https://img.shields.io/github/issues/itsmeeaizat1/itsmee-aizat-id-bailey?style=flat-square&color=181717&logo=github&logoColor=white)](https://github.com/itsmeeaizat1/itsmee-aizat-id-bailey/issues)
-[![GitHub last commit](https://img.shields.io/github/last-commit/itsmeeaizat1/itsmee-aizat-id-bailey?style=flat-square&color=181717&logo=github&logoColor=white)](https://github.com/itsmeeaizat1/itsmee-aizat-id-bailey/commits)
 
 </div>
 
@@ -32,14 +28,14 @@ A performance-tuned build of the Baileys protocol stack — interactive messages
 
 ## Overview
 
-`itsmeeaizat-bailey` is a maintained fork of the Baileys WebSocket API for WhatsApp Web multi-device. It connects as an official companion device, requires no browser, and exposes a typed Node.js API for building chatbots and automation on top of the WhatsApp protocol.
+`@itsmee_aizat.id/baileys` is a maintained fork of the Baileys WebSocket API for WhatsApp Web multi-device. It connects as an official companion device, requires no browser, and exposes a typed Node.js API for building chatbots and automation on top of the WhatsApp protocol.
 
 ## Installation
 
 Requires Node.js >= 20.
 
 ```bash
-npm install itsmeeaizat-bailey
+npm install @itsmee_aizat.id/baileys
 ```
 
 ## Quick Start
@@ -48,7 +44,7 @@ npm install itsmeeaizat-bailey
 import makeWASocket, {
   useMultiFileAuthState,
   DisconnectReason,
-} from "itsmeeaizat-bailey";
+} from "@itsmee_aizat.id/baileys";
 import { Boom } from "@hapi/boom";
 
 async function connectToWhatsApp() {

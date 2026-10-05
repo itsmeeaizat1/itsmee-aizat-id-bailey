@@ -1,8 +1,8 @@
 {
-  "name": "itsmeeaizat-bailey",
+  "name": "@itsmee_aizat.id/baileys",
   "type": "module",
-  "version": "1.0.5",
-  "description": "WhatsApp Web multi-device library for bots & automation \u2014 Aizat's build of Baileys v7: interactive messages, albums, newsletters, pairing codes",
+  "version": "1.1.1",
+  "description": "WhatsApp Web multi-device library for bots & automation — Aizat's build of Baileys v7: interactive messages, albums, newsletters, pairing codes",
   "license": "MIT",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -78,6 +78,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/itsmeeaizat1/itsmee-aizat-id-bailey.git"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "homepage": "https://github.com/itsmeeaizat1/itsmee-aizat-id-bailey#readme",
   "bugs": {
